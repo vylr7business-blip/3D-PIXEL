@@ -1,0 +1,9 @@
+{
+  "name": "voxel-rampage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D pixel arena shooter with a Solana wallet leaderboard",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
